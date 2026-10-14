@@ -111,19 +111,6 @@
 
 ---
 
-### ⚡ My Coding Energy
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nancyahmed114&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" />
-</p>
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nancyahmed114&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
 
 ### 🚀 Featured Quote
 
