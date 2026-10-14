@@ -98,19 +98,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nancyahmed114&show_icons=true&theme=radical" alt="Nancy's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nancyahmed114&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancyahmed114&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
 
 ### 🚀 Featured Quote
 
