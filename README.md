@@ -27,7 +27,6 @@
 - 🧠 I'm an **AI Engineer** with a background in **Electronics & Communications Engineering**
 - 🔬 **AI Researcher** at **Orange Innovation Egypt** — exploring NLP, LLMs & transformer architectures
 - 🎓 **AI Instructor** at **NTI** — teaching ML, NLP, RAG, LLM Fine-Tuning, LoRA/QLoRA & AI Agents
-- 🗣️ Working on **Egyptian Arabizi sentiment analysis** (fine-tuning NileChat with 4-bit QLoRA)
 - 💬 Ask me about **NLP, LLM Fine-Tuning, RAG, Prompt Engineering, or Computer Vision**
 - 🌱 Currently exploring **LLM research, AI Agents, and technical paper writing**
 
